@@ -21,7 +21,8 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
 
 
-------<br>
+------
+<br>
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -35,6 +36,9 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
  <hr> <p  align="center">
 
 ------
+
+------
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
