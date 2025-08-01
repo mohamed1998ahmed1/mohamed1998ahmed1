@@ -80,5 +80,3 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 </table>
 
 ------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
