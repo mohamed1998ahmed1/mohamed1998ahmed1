@@ -36,6 +36,10 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
  <hr> <p  align="center">
 
 ------
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ------
 
